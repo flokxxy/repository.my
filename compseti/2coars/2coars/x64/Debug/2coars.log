@@ -1,0 +1,4 @@
+﻿  2coars.cpp
+C:\Users\Виктория\source\repos\2coars\2coars\2coars.cpp(14,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Виктория\source\repos\2coars\2coars\2coars.cpp(36,26): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+  2coars.vcxproj -> C:\Users\Виктория\source\repos\2coars\x64\Debug\2coars.exe

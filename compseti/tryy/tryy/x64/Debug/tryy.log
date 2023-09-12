@@ -1,0 +1,4 @@
+﻿  tryy.cpp
+C:\Users\Виктория\source\repos\tryy\tryy\tryy.cpp(26,22): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+C:\Users\Виктория\source\repos\tryy\tryy\tryy.cpp(42,23): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+  tryy.vcxproj -> C:\Users\Виктория\source\repos\tryy\x64\Debug\tryy.exe
